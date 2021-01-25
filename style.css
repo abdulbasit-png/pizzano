@@ -1,0 +1,113 @@
+body{
+text-align: center;
+margin:0;}
+
+.topnav a{
+text-align:left;
+color:inherit;
+text-decoration:none;
+padding:15px 20px;
+margin:0 40px 0 -5px;
+
+}
+.mg-top-container{
+ margin: ;   
+
+}
+a{
+    float: left;
+
+
+
+}
+.topnav a:hover{
+background-color:#ec4646;
+color:white;
+border-radius:0 0 10px 10px;
+
+}
+.topnav .active{
+background-color:#ec4646;
+color:white;
+border-radius:0 0 10px 10px;
+}
+.tabicon{
+size:large;}
+
+/**Mushroom block**/
+.mushroom{
+width: 70%;
+border-radius:50px 200px 50px 200px;
+position: relative;
+top:60px;
+left: 2rem;
+}
+
+
+/**LOGO**/
+#logo{
+position: relative;
+ float:left;
+width:10%;
+left: -20px;
+
+}
+
+/**Order Now**/
+.order-now{
+background-color:#ec4646;
+position: absolute;
+top:560px;
+left:756px;
+border-radius:30px 30px 30px 30px;
+color:white;
+padding:10px 
+}
+.pd-1{
+text-decoration:none}
+
+
+/**Pizzano Tag**/
+.pd-2{
+    text-align: center;
+font-family:'Yusei Magic', sans-serif;;
+position: absolute;
+top:90px;
+left:256px;
+border-radius:30px 30px 30px 30px;
+color:red;
+}
+/**Info details**/
+.info-1{
+position: absolute;
+top:190px;
+left:566px;
+border-radius:30px 30px 30px 30px;
+color:white;
+font-family: 'Rock Salt', cursive;
+}
+
+.text-shadow {
+    text-shadow: 0 4px rgba(0,0,0,.7);
+    font-size:20px;
+    text-transform:uppercase;
+}
+em{
+position: absolute;
+font-size:1.054em;
+top:335px;
+left:390px;
+font-family:'Major Mono Display', monospace;
+text-shadow: 0 5px 5px rgba(83, 51, 237, 1);
+border-radius:30px 30px 30px 30px;
+color:white;
+
+}
+
+.giphy-embed{
+height: 150px;
+position:absolute;
+top:425px;
+left:840px;
+
+}
